@@ -29,3 +29,13 @@ My contributions included:
 - Assisting in the implementation and testing of the navigation framework
 - Analysing simulation results
 - Co-authoring the IEEE conference paper
+
+## 📄 Research Publication
+
+This project resulted in an IEEE conference publication.
+
+**Title:** *AI-Based Maze Solving Robot Using Hybrid Path Planning and Reinforcement Learning in Webots Simulation*
+
+🔗 **Read the paper on IEEE Xplore:**
+https://ieeexplore.ieee.org/document/11481889
+
